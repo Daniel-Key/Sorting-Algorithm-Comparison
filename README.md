@@ -12,3 +12,5 @@ Running instructions:
 > Set JUnit4 as an external library
 
 > Tests can be run individually or as a class
+
+See the report for screenshots and analysis.
